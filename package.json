@@ -1,0 +1,30 @@
+{
+  "name": "get-quotes",
+  "version": "1.0.0",
+  "description": "A Free Open Source Quotes API for each and every category",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "quotes",
+    "api",
+    "free",
+    "quotes",
+    "quotes",
+    "api",
+    "pharses",
+    "good",
+    "words",
+    "movie",
+    "quotes",
+    "motivational",
+    "quotes"
+  ],
+  "author": "Mohit Tanwani",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0"
+  }
+}
