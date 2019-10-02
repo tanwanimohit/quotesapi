@@ -1,7 +1,7 @@
 [
   {
     "quote": "The Greeks created gods that were in their image; warlike but creative, wise but ferocious, loving but jealous, tender but brutal, compassionate, but vengeful.",
-    "author": "Stephen Fry"
+    "author": "Stephen Fry",
     "category": "Mythos: The Greek Myths Retold"
   },
   {
@@ -27,7 +27,7 @@
     "author": "Fyodor Dostoevsky",
     "category": "Notes From Underground"
   },
-    "quote": "It has to start somewhere, it has to start sometime, what better place than here? What better time than now?",
+   { "quote": "It has to start somewhere, it has to start sometime, what better place than here? What better time than now?",
     "author": "Zack de la Rocha"
   },
   {
@@ -21955,5 +21955,10 @@
   {
     "quote": "Simplicity is the ultimate sophistication",
     "author": "Leonardo da Vinci"
-   }
+   },
+   
+	{
+    "quote": "A good human being has the power of making the world a better place.",
+    "author": "Pratibha Hotwani"
+	}
 ]
