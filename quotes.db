@@ -1,5 +1,17 @@
 [
   {
+    "quote": "It has to start somewhere, it has to start sometime, what better place than here? What better time than now?",
+    "author": "Zack de la Rocha"
+  },
+  {
+    "quote": "Yes I know my enemies. They're the teachers who taught me to fight me, compromise, conformity, assimilation, submission, ignorance, hypocrisy, brutality, the elite, all of which are American dreams.",
+    "author": "Zack de la Rocha"
+  },
+  {
+    "quote": "One of the great things about young people is that they do question, that they do care deeply about justice, and they they have open minds.",
+    "author": "Zack de la Rocha"
+  },
+  {
     "quote": "Winter is Coming",
     "author": "Pretty Much EveryOne",
     "category": "got"
@@ -21816,6 +21828,7 @@
     "category": "programing"
   },
   {
+
     "quote": "“Do not let circumstances control you. You change your circumstances.”",
     "author": "Jackie Chan"
   },
@@ -21824,7 +21837,7 @@
     "author": "Friedrich Nietzsche"
   },
   {
-    "quote": "I obviously do everything to be "hard to understand" myself",
+    "quote": "I obviously do everything to be hard to understand myself",
     "author": "Friedrich Nietzsche"
   },
   {
@@ -21847,4 +21860,48 @@
     "quote": "Being silent for a while is good. Words can't really express a person's emotions.",
     "author": "Andrei Tarkovsky"
   },
+  {
+    "quote": "Somewhere, something incredible is waiting to be known.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "The more you find out about the world, the more opportunities there are to laugh at it.",
+    "author": "Bill Nye"
+  },
+  {
+    "quote": "We are part of this universe; we are in this universe, but perhaps more important than both of those facts, is that the universe is in us.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "quote": "Begin at the beginning, the King said, very gravely, and go on till you come to the end then stop.",
+    "author": "Lewis Carroll"
+  },
+	{
+    "quote": "It’s no use going back to yesterday, because I was a different person then.",
+    "author": "Lewis Carroll"
+  },
+	{
+    "quote": "She generally gave herself very good advice, (though she very seldom followed it).",
+    "author": "Lewis Carroll"
+  },
+	{
+    "quote": "Who in the world am I? Ah, that's the great puzzle.",
+    "author": "Lewis Carroll"
+  },
+  { 
+    "quote": "The past, like the future, is indefinite and exists only as a spectrum of possibilities.",
+    "author": "Stephen Hawking"
+  }, 
+  { 
+    "quote": "People won't have time for you if you are always angry or complaining.", 
+    "author": "Stephen Hawking" 
+  }, 
+  { 
+    "quote": "Let us sacrifice our today so that our children can have a better tomorrow.", 
+    "author": "A.P.J Abdul Kalam"
+  },
+  {
+    "quote": "I’m not gonna run away, I never go back on my word! That’s my nindo: my ninja way.",
+    "author": "Uzumaki Naruto"
+  }
 ]
