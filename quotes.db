@@ -412,10 +412,6 @@
     "author": "Murray Gell-Mann"
   },
   {
-    "quote": "Love is the flower you've got to let grow.",
-    "author": "John Lennon"
-  },
-  {
     "quote": "Don't wait. The time will never be just right.",
     "author": "Napoleon Hill"
   },
@@ -20920,10 +20916,6 @@
     "author": "Napoleon Hill"
   },
   {
-    "quote": "Love is the flower you've got to let grow.",
-    "author": "John Lennon"
-  },
-  {
     "quote": "Trust yourself. You know more than you think you do.",
     "author": "Benjamin Spock"
   },
@@ -21841,6 +21833,34 @@
     "author": "Jackie Chan"
   },
   {
+    "quote": "“One must be a sea, to receive a polluted stream without becoming impure.”",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "I obviously do everything to be hard to understand myself",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "“Man is nothing else but what he makes of himself.”",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "“There is no human nature, since there is no god to conceive it.”",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "“I can always choose, but I ought to know that if I do not choose, I am still choosing.”",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "If you look for a meaning, you'll miss everything that happens.”",
+    "author": "Andrei Tarkovsky"
+  },
+  {
+    "quote": "Being silent for a while is good. Words can't really express a person's emotions.",
+    "author": "Andrei Tarkovsky"
+  },
+  {
     "quote": "Somewhere, something incredible is waiting to be known.",
     "author": "Carl Sagan"
   },
@@ -21852,7 +21872,8 @@
     "quote": "We are part of this universe; we are in this universe, but perhaps more important than both of those facts, is that the universe is in us.",
     "author": "Neil deGrasse Tyson"
   },
-    "quote": "Begin at the beginning, the King said, very gravely, and go on till you come to the end: then stop.",
+  {
+    "quote": "Begin at the beginning, the King said, very gravely, and go on till you come to the end then stop.",
     "author": "Lewis Carroll"
   },
 	{
@@ -21880,11 +21901,18 @@
     "author": "A.P.J Abdul Kalam"
   },
   {
+
+    "quote": "Only the unobservant would claim that a place has no seasons, would fail to notice nature and agriculture respond to the grand tilting of the planets in the cosmos - and that, even as busy urban people, we exist in an eternal natural world.",
+    "author": "Kevin West",
+    "category": "cooking"
+   },
+   {
     "quote": "I’m not gonna run away, I never go back on my word! That’s my nindo: my ninja way.",
     "author": "Uzumaki Naruto"
+
   },
   {
     "quote": "Simplicity is the ultimate sophistication",
     "author": "Leonardo da Vinci"
-  }
+   }
 ]
