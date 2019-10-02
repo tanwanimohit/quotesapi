@@ -3,7 +3,7 @@ Random Quotes generator Machine / API
 
 This is a Random Quoutes Generator API, Developed in Node.js. I am maintaining a json file named `quotes.db` which is working like a database to get the Random Quote. 
 
-## How to Fork ?
+## How to Contribute ?
 
 - Fork the Repo / Download the Repo
 
