@@ -21807,7 +21807,8 @@
   {
     "quote": "Dream big and dare to fail.",
     "author": "Norman Vaughan"
-
+	},
+	{
     "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
     "author": "Harold Abelson",
     "category": "programming"
