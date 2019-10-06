@@ -6,8 +6,8 @@ This is a Random Quoutes Generator API, Developed in Node.js. I am maintaining a
 ## How to Use?
 
 - To Get Random Quote : Send Get Request to : `https://freequote.herokuapp.com/`
-- To Get All Authors : Send Get Request to : `https://freequote.herokuapp.com/authors`
-- To Get Quotes of Specific Author : `https://freequote.herokuapp.com/authors?authorname`
+- To Get All Authors : Send Get Request to : `https://freequote.herokuapp.com/author`
+- To Get Quotes of Specific Author : `https://freequote.herokuapp.com/author?authorname`
 - To Get All Categories : Send Get Request to : `https://freequote.herokuapp.com/categories` 
 - To Get Quote of Specific Category : `https://freequote.herokuapp.com/categoryname`
 
