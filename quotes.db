@@ -11,7 +11,7 @@
     "category": "Drinking, Addiction"
   },
   {
-    "quote":"If life were predictable it would cease to be life, and be without flavor.", 
+    "quote":"If life were predictable it would cease to be life, and be without flavor.",
     "author": "Eleanor Roosevelt"
   },
   {
@@ -22072,6 +22072,10 @@
     "author": "Wayne Gretzky"
   },
   {
+    "quote": "Skate to where the puck is going, not where it has been.",
+    "author": "Wayne Gretzky"
+  },
+  {
     "quote": "Don’t read success stories, you will only get a message. Read failure stories, you will get some ideas to get success.",
     "author": "A. P. J. Abdul Kalam"
   },
@@ -22094,5 +22098,17 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "To be neutral does not mean to be indifferent or insensitive. You don't have to kill your feelings. It's enough to kill hatred within yourself."
+    "author": "Andrzej Sapkowski"
+  },
+  {
+    "quote": "There is never a second opportunity to make a first impression."
+    "author": "Andrzej Sapkowski"
+  },
+  {
+    "quote": "Only death can finish the fight, everything else only interrupts the fighting."
+    "author": "Andrzej Sapkowski"
   }
 ]
