@@ -3,6 +3,14 @@ Random Quotes generator Machine / API
 
 This is a Random Quoutes Generator API, Developed in Node.js. I am maintaining a json file named `quotes.db` which is working like a database to get the Random Quote. 
 
+## How to Use?
+
+- To Get Random Quote : Send Get Request to : `https://freequote.herokuapp.com/`
+- To Get All Authors : Send Get Request to : `https://freequote.herokuapp.com/author`
+- To Get Quotes of Specific Author : `https://freequote.herokuapp.com/author?authorname`
+- To Get All Categories : Send Get Request to : `https://freequote.herokuapp.com/categories` 
+- To Get Quote of Specific Category : `https://freequote.herokuapp.com/categoryname`
+
 ## How to Contribute ?
 
 - Fork the Repo / Download the Repo
