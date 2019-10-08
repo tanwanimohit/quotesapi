@@ -22094,5 +22094,13 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "You can’t separate peace from freedom because no one can be at peace unless he has his freedom.",
+    "author": "Malcolm X"
+  },
+  {
+    "quote": "It’s only after we’ve lost everything that we’re free to do anything.",
+    "author": "Tyler Durden"
   }
 ]
