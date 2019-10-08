@@ -22094,5 +22094,17 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "There's no point being grown-up if you can't be childish sometimes.",
+    "author": "The Fourth Doctor"
+  },
+  {
+    "quote": "A process which I can only describe as a dog’s Brexit.",
+    "author": "Yanis Varoufakis"
+  },
+  {
+    "quote": "I love deadlines. I like the whooshing sound they make as they fly by.",
+    "author": "Douglas Adams"
   }
 ]
