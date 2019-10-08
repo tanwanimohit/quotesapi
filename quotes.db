@@ -22084,6 +22084,22 @@
     "author": "Fleabag"
   },
   {
+    "quote": "For small creatures such as we the vastness is bearable only through love.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "It is hard to fail, but it is worse never to have tried to succeed.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Impossible is relative.",
+    "author": "Michio Kaku"
+  },
+  {
+    "quote": "The bitterness of poor quality remains long after the sweetness of low price is forgotten.",
+    "author": "Benjamin Franklin"
+  },
+  {
     "quote": "I personally, generally, don't really feel much emotion if there's some problem and I'm actively solving it.",
     "author": "Vitalik Buterin"
   },
@@ -22094,5 +22110,5 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
-  }
+  },
 ]
