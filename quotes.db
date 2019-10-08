@@ -22095,4 +22095,8 @@
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
   }
+  {
+    "quote": "Tell me and I forget. Teach me and I remember.  Involve me and I learn.",
+    "author": "Benjamin Franklin"
+  }
 ]
