@@ -22094,5 +22094,9 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "Persistence, persistence, and persistence. The power can be created and maintained through daily practice – continuous effort.",
+    "author": "Bruce Lee"
   }
 ]
