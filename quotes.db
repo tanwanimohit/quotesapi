@@ -11,7 +11,7 @@
     "category": "Drinking, Addiction"
   },
   {
-    "quote":"If life were predictable it would cease to be life, and be without flavor.", 
+    "quote":"If life were predictable it would cease to be life, and be without flavor.",
     "author": "Eleanor Roosevelt"
   },
   {
@@ -22094,5 +22094,17 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  }
+  {
+    "quote": "Some people never go crazy. What truly horrible lives they must lead.",
+    "author": "Charles Bukowski"
+  }
+  {
+    "quote": "What matters most is how well you walk through the fire",
+    "author": "Charles Bukowski"
+  }
+  {
+    "quote": "Find what you love and let it kill you.",
+    "author": "Charles Bukowski"
   }
 ]
