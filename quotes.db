@@ -22094,5 +22094,17 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "Without new ideas, success can become stale.",
+    "author": "Anthony Bourdain"
+  },
+  {
+    "quote": "Without experimentation, a willingness to ask questions and try new things, we shall surely become static, repetitive, and moribund.",
+    "author": "Anthony Bourdain"
+  },
+  {
+    "quote": "Don't lie about it. You made a mistake. Admit it and move on. Just don't do it again. Ever."
+    "author": "Anthony Bourdain"
   }
 ]
