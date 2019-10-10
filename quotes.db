@@ -22094,5 +22094,17 @@
   {
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "In the beginner's mind there are many possibilities, but in the expert's mind there are few",
+    "author": "Shunryū Suzuki"
+  },
+  {
+    "quote": "Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.",
+    "author":"Shunryū Suzuki"
+  },
+  {
+    "quote": "To loose balance sometimes for love is part of living a balanced life.",
+    "author":"Elizabeth Gilbert"
   }
 ]
