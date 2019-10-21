@@ -15,7 +15,7 @@ This is a Random Quoutes Generator API, Developed in Node.js. I am maintaining a
 
 - Fork the Repo / Download the Repo
 
-**If you want to contribute to Node.js part than**
+**If you want to contribute to the Node.js part then**
 
 - You need to have latest Node.js in your System [Download](https://nodejs.org/en/download/)
 - After that just Open the folder and write this.
@@ -36,4 +36,4 @@ Than just Add the New quote in json format at the end of `quotes.db`
 }
 ```
 
-Thankyou.
+Thank you.
