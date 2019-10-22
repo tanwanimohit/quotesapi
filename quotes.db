@@ -1,5 +1,9 @@
 [
-
+  {
+  "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...",
+  "author": "Dr. Seuss",
+  "category": "Motivation"
+  },
   {
     "quote": "Get busy living or get busy dying.",
     "author": "Stephen King",
@@ -22087,5 +22091,30 @@
   {
     "quote": "Creio no riso e nas lágrimas como antídotos contra o ódio e o terror.",
     "author": "Charles Chaplin"
+  },
+  {
+    "quote": "I personally, generally, don't really feel much emotion if there's some problem and I'm actively solving it.",
+    "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "When I was in grade five or six, I just remember quite a lot of people were always talking about me like I was some kind of math genius. And there were just so many moments when I realized, like, okay, why can't I just be like some normal person and go have a 75% average like everyone else.",
+    "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
+    "author": "Vitalik Buterin"
+  },
+  {
+    "quote": "Quiet people have the loudest minds.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "Intelligence is the ability to adapt to change.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+    "author": "Oscar Wilde"
   }
 ]
+
