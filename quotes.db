@@ -1,5 +1,10 @@
 [
   {
+  "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...",
+  "author": "Dr. Seuss",
+  "category": "Motivation"
+  },
+  {
     "quote": "Get busy living or get busy dying.",
     "author": "Stephen King",
     "category": "Motivation"
@@ -22084,6 +22089,7 @@
     "author": "Fleabag"
   },
   {
+
     "quote": "I personally, generally, don't really feel much emotion if there's some problem and I'm actively solving it.",
     "author": "Vitalik Buterin"
   },
@@ -22106,5 +22112,17 @@
   {
     "quote": "I read somewhere how important it is in life not necessarily to be strong, but to feel strong",
     "author": "Christopher McCandless"
+  },
+    "quote": "Quiet people have the loudest minds.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "Intelligence is the ability to adapt to change.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+    "author": "Oscar Wilde"
   }
 ]
+
